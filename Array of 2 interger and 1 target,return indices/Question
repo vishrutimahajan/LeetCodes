@@ -1,0 +1,10 @@
+Q:
+Given that the two integers in an array when added up gives the answer target and output in the form of indices
+
+Example:
+Input:[2,11,15,7]
+target=9
+Output:[0,3]
+
+Hint:
+Use hash map 
