@@ -1,0 +1,7 @@
+Step 1:Take each number from the array and subtract it from the target
+Step 2: If the answer is present in the hash map we got the output 
+            else
+              append that number in the hash map eg.[2:0] here 2 is the number and 0 is the index of the number
+Step 3: continue step 2 till we get the output 
+Step 4: End 
+
