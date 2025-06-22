@@ -1,3 +1,6 @@
+#Q: Given that the two integers in an array, when added up, give the answer target and output in the form of indices
+
+
 def twosum(nums,target):
   num_map{}#hash map
 
